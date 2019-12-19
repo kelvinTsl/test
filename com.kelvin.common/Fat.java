@@ -13,6 +13,7 @@ public class Fat {
     int all = 12000;
 
     public static void main(String[] args) {
+        System.out.println("master");
         Fat fat = new Fat();
         fat.test();
     }
