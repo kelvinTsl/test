@@ -10,7 +10,7 @@ import java.util.Random;
  **/
 public class Fat {
 
-    int all = 120;
+    int all = 1200;
 
     public static void main(String[] args) {
         Fat fat = new Fat();
